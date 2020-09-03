@@ -11,7 +11,7 @@ function App() {
       <main>
         <Forecast />
       </main>
-      <footer>Page created by yournamehere</footer>
+      <footer>GitHub @TracyVy</footer>
     </div>
   );
 }
